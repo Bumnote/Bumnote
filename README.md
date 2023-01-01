@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there👋
+### This place is Bumnote's place
 
-
-# My tech stack
+# Studying
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff&style=plastic&logo=appveyor)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3&style=plastic&logo=appveyor)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A&style=plastic&logo=appveyor)
 
 <!--
 **Bumnote/Bumnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

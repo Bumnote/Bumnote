@@ -1,5 +1,5 @@
 ### Hi there👋
-### This place is Bumnote's place
+# This place is Bumnote's place
 
 # Studying
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff&style=plastic&logo=appveyor)

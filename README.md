@@ -7,8 +7,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A&style=plastic&logo=appveyor)
 
 ![Bumnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bumnote&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dt10002)](https://solved.ac/dt10002)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dt10002)](https://solved.ac/dt10002)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dt10002&theme=dark)
 <!--
 **Bumnote/Bumnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

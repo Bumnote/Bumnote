@@ -9,8 +9,8 @@
 
 ![Bumnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bumnote&theme=vue&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dt10002)](https://solved.ac/dt10002)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dt10002&theme=cold)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=newjava)](https://solved.ac/dt10002)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=newjava&theme=cold)
 
 <!--
 **Bumnote/Bumnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

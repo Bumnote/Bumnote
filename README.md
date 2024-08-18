@@ -9,7 +9,7 @@
 
 ![Bumnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bumnote&theme=vue&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=newjava)](https://solved.ac/dt10002)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=newjava)](https://solved.ac/newjava)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=newjava&theme=cold)
 
 <!--

@@ -1,28 +1,37 @@
-### Hi there👋
-# This place is Bumnote's place
+<div align="center">
 
-# Studying
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff&style=plastic&logo=appveyor)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3&style=plastic&logo=appveyor)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A&style=plastic&logo=appveyor)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YongBum%20Kim&fontSize=40" />
 
+  ### Bumnote
 
-![Bumnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bumnote&theme=vue&show_icons=true)
+  <a href="https://velog.io/@bumnote_/posts"><img src="https://img.shields.io/badge/bumnote.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://www.instagram.com/_yong_note/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=Instagram&logoColor=white"/></a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=newjava)](https://solved.ac/newjava)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=newjava&theme=cold)
+</div>
 
-<!--
-**Bumnote/Bumnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  ### Technology Stack 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center" display="inline-block">
+    <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><br>
+  </p>
+
+  ### Comunication 
+
+  <p align="center", display=""inline-block>
+    <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+    <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
+  </p>
+  
+  
+</div>
+
+<div align="center">
+  <br>
+  
+  ![Bumnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bumnote&theme=vue&show_icons=true)
+
+</div>

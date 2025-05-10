@@ -2,6 +2,8 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YongBum%20Kim&fontSize=40" />
 
+  *작은 것이 아름답지만, 단순함이 쉬움을 뜻하진 않는다.*
+
   ### Bumnote
 
   <a href="https://velog.io/@bumnote_/posts"><img src="https://img.shields.io/badge/bumnote.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://www.instagram.com/_yong_note/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=Instagram&logoColor=white"/></a>

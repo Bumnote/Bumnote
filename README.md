@@ -27,7 +27,13 @@
     <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
     <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
   </p>
-  
+
+  ### Study
+
+|Contents||
+|------|--|
+|[가상 면접 사례로 배우는 대규모 시스템 설계 기초 1](https://github.com/joyerimi/system-design-study)|25.06.05 ~ ing|
+|[Clean Code(클린 코드)]()|25.06.01 ~ ing|
   
 </div>
 

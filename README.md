@@ -14,7 +14,7 @@
 
   ### Language & Framework 
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,python&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,python,spring,gradle,graphql&theme=light)](https://skillicons.dev)
 
   ### Database
 

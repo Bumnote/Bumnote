@@ -24,6 +24,11 @@
 
   [![My Skills](https://skillicons.dev/icons?i=aws,docker,githubactions,jenkins&theme=light)](https://skillicons.dev)
 
+  ### Hackathon
+
+|Contents|Award|
+|------|--|
+|강원대 x 강릉원주대 AWS 해커톤| 최우수상 🏆 |
 
   ### Study
 

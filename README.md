@@ -28,7 +28,7 @@
 
 |Hack|Duration|Award|Link|
 |:---:|:------:|:----:|:---:|
-|강원대 x 강릉원주대 AWS 해커톤|2025.11.22 ~ 2025.11.23 (무박)| 최우수상 🏆 |[Git](https://github.com/AWS-SAA-Certificate-TEAM1)|
+|강원대 x 강릉원주대 AWS 해커톤|2025.11.22 ~ 2025.11.23 (무박)| 최우수상 🏆 |[Blog](https://bumnote.tistory.com/)|
 
   ### Study
 

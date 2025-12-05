@@ -6,7 +6,9 @@
 
   ### Bumnote
 
-  <a href="[https://velog.io/@bumnote_/posts](https://bumnote.tistory.com/)"><img src="https://img.shields.io/badge/bumnote.tistory-15191e?style=badge&logo=tistory&logoColor=white"/></a>
+  <a href="https://bumnote.tistory.com/">
+    <img src="https://img.shields.io/badge/bumnote.tistory-15191e?style=badge&logo=tistory&logoColor=white"/>
+  </a>
 
 </div>
 
@@ -32,16 +34,9 @@
 
   ### Study
 
-|Contents||
+|Contents|Duration|
 |------|--|
 |[가상 면접 사례로 배우는 대규모 시스템 설계 기초 1](https://github.com/joyerimi/system-design-study)|25.06.05 ~ ing|
 |[Clean Code(클린 코드)]()|25.06.01 ~ ing|
   
-</div>
-
-<div align="center">
-  <br>
-  
-  ![Bumnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bumnote&theme=vue&show_icons=true)
-
 </div>

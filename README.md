@@ -26,10 +26,11 @@
 
   [![My Skills](https://skillicons.dev/icons?i=aws,docker,githubactions,jenkins&theme=light)](https://skillicons.dev)
 
-  ### Hackathon
+  ### Awards
 
-|Hack|Duration|Award|Link|
+|Name|Duration|Award|Link|
 |:---:|:------:|:----:|:---:|
+|KSPO 공공데이터 활용 경진대회|2025.11.25 ~ 2025.12.07|우수 (3등)|[Git](https://github.com/Team-DoubleO)|
 |강원대 x 강릉원주대 AWS 해커톤|2025.11.22 ~ 2025.11.23 (무박)| 최우수상 🏆 |[Blog](https://bumnote.tistory.com/)|
 
   ### Study

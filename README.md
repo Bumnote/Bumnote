@@ -28,11 +28,11 @@
 
   ### Awards
 
-|Name|Duration|Award|Link|
+|Name|Duration|Award 🏆|Link|
 |:---:|:------:|:----:|:---:|
-|KSPO 공공데이터 활용 경진대회|2025.11.25 ~ 2025.12.07|우수 (3등)|[Git](https://github.com/Team-DoubleO)|
-|강원대 x 강릉원주대 AWS 해커톤|2025.11.22 ~ 2025.11.23|최우수상 🏆|[Blog](https://bumnote.tistory.com/2)|
-|SSAFY 1학기 프로젝트 경진대회|2025.04.28 ~ 2025.05.26|우수 (2등)|[Git](https://github.com/ReTrip-Dev/ReTrip-api)|
+|KSPO 공공데이터 활용 경진대회|2025.11.25 ~ 2025.12.07|우수상 (3등)|[Git](https://github.com/Team-DoubleO)|
+|강원대 x 강릉원주대 AWS 해커톤|2025.11.22 ~ 2025.11.23|최우수상 (2등)|[Blog](https://bumnote.tistory.com/2)|
+|SSAFY 1학기 프로젝트 경진대회|2025.04.28 ~ 2025.05.26|우수상 (2등)|[Git](https://github.com/ReTrip-Dev/ReTrip-api)|
 
   ### Study
 

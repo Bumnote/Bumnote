@@ -33,12 +33,5 @@
 |KSPO 공공데이터 활용 경진대회|2025.11.25 ~ 2025.12.07|우수상 (3등)|[Git](https://github.com/Team-DoubleO) \| [Blog](https://bumnote.tistory.com/8)|
 |강원대 x 강릉원주대 AWS 해커톤|2025.11.22 ~ 2025.11.23|최우수상 (2등)|[Blog](https://bumnote.tistory.com/2)|
 |SSAFY 1학기 프로젝트 경진대회|2025.04.28 ~ 2025.05.26|우수상 (2등)|[Git](https://github.com/ReTrip-Dev/ReTrip-api)|
-
-  ### Study
-
-|Contents|Duration|
-|------|--|
-|[가상 면접 사례로 배우는 대규모 시스템 설계 기초 1](https://github.com/joyerimi/system-design-study)|25.06.05 ~ ing|
-|[Clean Code(클린 코드)]()|25.06.01 ~ ing|
   
 </div>
